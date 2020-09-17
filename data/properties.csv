@@ -1,0 +1,5 @@
+id,name,area,bedroom,amenities,furnishing,locality,price,owner_id
+1,House for rent,1200,2,2BHK,semi-furnished,Bangalore,13000,1
+2,Apartment for rent,3000,3,3BHK,fully furnished,Mumbai,23000,3
+3,Flat for rent,3000,3,3BHK,semifurnished,Pune,13000,1
+4,Flat for rent,3000,3,3BHK,semifurnished,Pune,13000,1

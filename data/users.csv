@@ -1,0 +1,5 @@
+id,uname,password,mobile,email,type
+1,Vaisakh,123456,984567890,vaisakh@gmail.com,admin
+2,John,john123,123456,john@gmail.com,user
+3,Krish,krish123,123456,krishn@gmail.com,owner
+4,Krish,krish123,123456,krishn@gmail.com,owner
